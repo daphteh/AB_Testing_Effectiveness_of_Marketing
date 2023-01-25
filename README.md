@@ -20,14 +20,11 @@ Assessing the effectiveness of displaying ISO Certifications to customers.
 Our client was one of the largest Chinese companies belonging to the baby milk industry which experienced a major scandal in 2008. Although the company was not culpable, their reputation was nonetheless tarnished by the scandal. Our task was to assess whether their efforts to reassure their customers 7 years later was effective.  
 
 # Findings & Practical Implications
-<details>
-<summary> Consumers were **13.8%** less likely to purchase products when exposed to the certification: Displaying ISO certifications with the intention to reassure customers can backfire [self-promoter's paradox](https://www.jstor.org/stable/2635061)</summary>  
+1. Consumers were **13.8%** less likely to purchase products when exposed to the certification: Displaying ISO certifications with the intention to reassure customers can backfire due to the [self-promoter's paradox](https://www.jstor.org/stable/2635061).
 <img width="1274" alt="Main Finding" src="https://github.com/daphteh/AB_Testing_Effectiveness_of_Marketing/blob/4623eac284cb5805b1d250287a64631280340742/Report/Main_finding.jpg">
-</details>
 
-
-
-2. How much this backfires is influenced by how badly affected was the customer's community
-
+2. How negatively consumers respond to exposure to the certification is influenced by their exposure to the scandal.
+<details><summary>Additional Details</summary>
+ <p>   Region level analysis was conducted considering where the scandal was discovered, its impact and how much media attention the scandal recceived. </p> 
 
 #### Key Takeaway: Firms belonging to industries plagued by scandals (such as crypto currency) or that lack legitimacy should consider building stakeholder trust by focusing on their strengths rather than reassuring them and inadvertently reminding them of the potential risks of entering a transaction.
