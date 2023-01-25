@@ -22,7 +22,7 @@ Our client was one of the largest Chinese companies belonging to the baby milk i
 # Findings & Practical Implications
 <details>
 <summary> Consumers were **13.8%** less likely to purchase products when exposed to the certification: Displaying ISO certifications with the intention to reassure customers can backfire [self-promoter's paradox](https://www.jstor.org/stable/2635061)</summary>  
-<img width="1274" alt="Main Finding" src="XXX">
+<img width="1274" alt="Main Finding" src="https://github.com/daphteh/AB_Testing_Effectiveness_of_Marketing/blob/4623eac284cb5805b1d250287a64631280340742/Report/Main_finding.jpg">
 </details>
 
 
