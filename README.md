@@ -27,4 +27,4 @@ Our client was the 3rd the largest Chinese companies belonging to an industry wh
 <details><summary>Additional Details</summary>
  <p>   Region level analysis was conducted considering where the scandal was discovered, its impact and how much media attention the scandal received. </p></details>
 
-#### Key Takeaway: Firms belonging to industries plagued by scandals (such as crypto currency) or that lack legitimacy should consider building stakeholder trust by focusing on their strengths rather than reassuring them and inadvertently reminding them of the potential risks of entering a transaction.
+#### Key Takeaway: Firms belonging to industries plagued by scandals (such as crypto currency) or that lack legitimacy should consider building stakeholder trust by focusing on their strengths rather than reassuring them. This could inadvertently remind consumers of risks of entering a transaction.
