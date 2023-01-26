@@ -25,6 +25,6 @@ Our client was the 3rd the largest Chinese companies belonging to an industry wh
 
 2. How negatively consumers respond to exposure to the certification is influenced by their exposure to the scandal.
 <details><summary>Additional Details</summary>
- <p>   Region level analysis was conducted considering where the scandal was discovered, its impact and how much media attention the scandal received. </p></details>
+ <p>   Region level analysis was conducted considering where the scandal was discovered, its impact and how much media attention the scandal received. These factors exacerbated how negatively consumers reacted when exposed to the certification. </p></details>
 
 #### Key Takeaway: Firms belonging to industries plagued by scandals (such as crypto currency) or that lack legitimacy should consider building stakeholder trust by focusing on their strengths rather than reassuring stakeholders. This could inadvertently remind consumers of the risks associated with entering a transaction.
