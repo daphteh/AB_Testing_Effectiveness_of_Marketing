@@ -21,7 +21,7 @@ Our client was the 3rd the largest Chinese companies belonging to an industry wh
 
 # Findings & Practical Implications
 1. Consumers were **13.8%** less likely to purchase products when exposed to the certification: Displaying ISO certifications with the intention to reassure customers can backfire due to the [self-promoter's paradox](https://www.jstor.org/stable/2635061).
-<img width="1274" alt="Main Finding" src="https://github.com/daphteh/AB_Testing_Effectiveness_of_Marketing/blob/2b268aae543a760503d82f55ff38dc4f9fab84f7/Report/Main_finding.png">
+<img width="1274" alt="Main Finding" src="https://github.com/daphteh/AB_Testing_Effectiveness_of_Marketing/blob/66ae774918257a0fa3d35d0b80ee70bff3101233/Report/Main_finding.jpg">
 
 2. How negatively consumers respond to exposure to the certification is influenced by their exposure to the scandal.
 <details><summary>Additional Details</summary>
