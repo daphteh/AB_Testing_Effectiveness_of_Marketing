@@ -1,4 +1,4 @@
-# A/B_Testing_Effectiveness_of_Marketing
+# A/B Testing Effectiveness of Marketing
 Assessing the effectiveness of displaying ISO Certifications to customers.
 
 #### A/B Testing Experimental Design ####
